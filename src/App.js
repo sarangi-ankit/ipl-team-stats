@@ -5,7 +5,7 @@ import PlayersList from './components/PlayersList';
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       
       <PlayersList />
     </div>
